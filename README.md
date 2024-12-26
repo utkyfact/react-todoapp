@@ -68,10 +68,13 @@ This project is licensed under the MIT License.
 ![Home Page](../public/screenshots/screenshoots1.png)
 
 # Add Task Modal
-![Add Task Modal](../public/screenshots/add_task_modal.png)
+![Add Task Modal](../public/screenshots/screenshoots2.png)
 
 # Edit Task Modal
-![Edit Task Modal](./public/screenshots/edit_task_modal.png)
+![Edit Task Modal](./public/screenshots/screenshoots4.png)
+
+# Delete Task Modal
+![Edit Task Modal](./public/screenshots/screenshoots3.png)
 
 Include some screenshots here to showcase your app.
 
