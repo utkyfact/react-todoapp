@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 ## Screenshots
 
 # Home Page
-![Home Page](./public/screenshots/screenshoots1.png)
+![Home Page](../public/screenshots/screenshoots1.png)
 
 # Add Task Modal
 ![Add Task Modal](../public/screenshots/add_task_modal.png)
