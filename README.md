@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 ![Home Page](./public/screenshots/home_page.png)
 
 # Add Task Modal
-![Add Task Modal](./public/screenshots/add_task_modal.png)
+![Add Task Modal](../public/screenshots/add_task_modal.png)
 
 # Edit Task Modal
 ![Edit Task Modal](./public/screenshots/edit_task_modal.png)
