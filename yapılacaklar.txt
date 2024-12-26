@@ -1,0 +1,5 @@
+1 - consoldaki hata çözülmeli (yapıldı)
+
+2 - todocontext yapısındaki update başka bir şekilde çözülebiliyor mu araştırılmalı (araştırıldı)
+
+3- MODAL eklenecek (yapıldı)
